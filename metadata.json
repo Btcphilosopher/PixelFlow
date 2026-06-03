@@ -1,0 +1,6 @@
+{
+  "name": "PixelFlow",
+  "description": "Modern Instagram-Style Photo Social Media Platform with adaptive feeds, stories, content creation, explore grids, messaging, and responsive layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
